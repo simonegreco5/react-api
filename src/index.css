@@ -1,0 +1,37 @@
+body {
+  font-family: 'Open Sans Variable', sans-serif;
+}
+
+.img-card{
+    height: 20rem;
+    object-fit: cover;
+}
+
+.text-awards{
+    color: rgb(194, 148, 8);
+}
+
+
+header{
+    text-align: center;
+    padding: 5rem;
+    position: relative;
+    background-color: rgba(114, 53, 36, 0.331);
+
+    h5{
+        color: rgb(194, 148, 8);
+        position: absolute;
+        top: 55%;
+        left: 57%;
+    }
+}
+
+main{
+    background-color: rgb(53, 51, 51);
+
+    h2{
+        color: rgb(194, 148, 8);
+        padding: 5rem;
+        text-align: center;
+    }
+}
